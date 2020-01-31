@@ -16,9 +16,13 @@ width:500px;
 .text {
 white-space:pre;
 text-align:left;
-margin-left:-38%;
+margin-left:-43%;
 }
 
 h1 {
 color:green;
+}
+
+p{
+color:blue;
 }
