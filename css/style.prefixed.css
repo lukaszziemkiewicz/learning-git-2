@@ -12,6 +12,8 @@ line-height: 1.7;
 }
 .box {
 width:500px;
+display:-ms-flexbox;
+display:flex;
 }
 .text {
 white-space:pre;
